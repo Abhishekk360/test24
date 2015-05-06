@@ -52,6 +52,7 @@
     <Compile Include="EmptyClass.cs" />
     <Compile Include="EmptyClass2.cs" />
     <Compile Include="EmptyClass4.cs" />
+    <Compile Include="EmptyClass5.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
